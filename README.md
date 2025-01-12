@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ali heymani</h1>
-- 🌱 I’m currently learning:)
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif">
 <p align="left">
 </p>
