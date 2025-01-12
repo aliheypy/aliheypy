@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali heymani</h1>
 - 🌱 I’m currently learning:)
-
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOz9h3XW7gQx0iNn_qF2sov47JC8alfUq67g&s
-
+https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
