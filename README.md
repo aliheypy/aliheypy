@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali heymani</h1>
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning:)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
