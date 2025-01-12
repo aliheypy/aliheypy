@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali heymani</h1>
 - 🌱 I’m currently learning:)
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif">
-https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif
 <h3 align="left">Connect with me:</h3>
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif">
 <p align="left">
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliheypy&show_icons=true&locale=en" alt="aliheypy" /></p>
