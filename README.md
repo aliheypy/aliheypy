@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ali heymani</h1>
 - 🌱 I’m currently learning:)
+
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
+
 https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif
 <h3 align="left">Connect with me:</h3>
 <p align="left">
