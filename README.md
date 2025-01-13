@@ -13,4 +13,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 -->
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.python.org%2Fbadge%2Fany_text-%20_%20-blue?style=flat&logo=Python&logoColor=white&label=PYTHON&labelColor=blue&color=blue&cacheSeconds=https%3A%2F%2Fwww.python.org%2F&link=link)
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.python.org%2Fbadge%2Fany_text-%20_%20-blue?style=flat&logo=Python&logoColor=white&label=PYTHON&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.python.org%2F&link=https%3A%2F%2Fwww.python.org%2F)
