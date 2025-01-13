@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<!---<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Ali, a Web Developer 👋🏼:
 👨🏼‍🎓 studying media based computer science at <br>👨🏼‍💻 working as a web developer since 2022 <br>
@@ -12,3 +12,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+-->
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fjust%2520the%2520message-8A2BE2?style=plastic&logo=Python&logoColor=white&label=PYTHON&labelColor=blue&color=red&link=https%3A%2F%2Fwww.python.org%2F)
