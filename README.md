@@ -16,7 +16,7 @@ I'm Ali, a passionate developer and AI enthusiast! 🤖
   - Web development and scalable services  
   - Data analysis and image processing  
 - 🎯 Goal: To design and develop intelligent systems that make life easier.  
-- 📫 How to reach me: [Your email or social media link]  
+- 📫 How to reach me: 
 
 ---
 
