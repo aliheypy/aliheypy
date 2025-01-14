@@ -1,4 +1,7 @@
+<img width="1030" alt="DALL·E 2025-01-15 02 34 04 - A professional GitHub banner for a backend developer with a passion for artificial intelligence  The design should feature a clean and modern look, in" src="https://github.com/user-attachments/assets/b553fd48-9586-4ac9-bea7-670719c1dc33" />
+<!---
 <img src="https://github.com/user-attachments/assets/08b97a32-34c1-431e-bdfd-c8c0166402e7" alt="GitHub Banner" width="100%" />
+-->
 
 ---
 # Hi there! 👋  
